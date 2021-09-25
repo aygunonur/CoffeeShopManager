@@ -1,3 +1,3 @@
 # CoffeeShopManager
-Bu projede Nero ve Starbucks isimli iki kahve şirketinin basic bir müşteri yönetimini yaptık.
-Starbucks müşterilerini veritabanına MERNİS doğrulamasıyla kaydettik.
+In this project, we made a basic customer management of two coffee companies, Nero and Starbucks. 
+We have registered Starbucks customers in the database with MERNIS verification.
